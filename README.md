@@ -1,4 +1,4 @@
-issue-tracking
+How to Post Issues
 ==============
 
-Bugs and shit
+//TODO Actually write out instructions
